@@ -1,0 +1,971 @@
+﻿Log file open, 02/13/20 17:57:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPS_DeniseCantos_2C
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.069666
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz, GPU: NVIDIA Quadro K620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=UNREALCEV -epicuserid=ac10bb8943c44d8e9f0dac7396755b35 -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.13-16.57.59:369][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.13-16.57.59:370][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:370][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:373][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.13-16.57.59:373][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.13-16.57.59:373][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.13-16.57.59:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.13-16.57.59:374][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.13-16.57.59:374][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.13-16.57.59:377][  0]LogHAL: Display: Platform has ~ 16 GB [17112408064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.13-16.57.59:377][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.13-16.57.59:377][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.13-16.57.59:377][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.13-16.57.59:378][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Config/Windows/Engine.ini]
+[2020.02.13-16.57.59:378][  0]LogInit: Computer: A101PC06
+[2020.02.13-16.57.59:378][  0]LogInit: User: Alumno
+[2020.02.13-16.57.59:378][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.13-16.57.59:378][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.13-16.57.59:378][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.13-16.57.59:378][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.13-16.57.59:378][  0]LogMemory: Process Physical Memory: 100.23 MB used, 100.23 MB peak
+[2020.02.13-16.57.59:378][  0]LogMemory: Process Virtual Memory: 88.64 MB used, 88.64 MB peak
+[2020.02.13-16.57.59:378][  0]LogMemory: Physical Memory: 7200.07 MB used,  9119.59 MB free, 16319.66 MB total
+[2020.02.13-16.57.59:378][  0]LogMemory: Virtual Memory: 4656.43 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.02.13-16.57.59:381][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.13-16.57.59:399][  0]LogInit: Overriding language with editor language configuration option (es).
+[2020.02.13-16.57.59:399][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.02.13-16.57.59:399][  0]LogInit: Using OS detected locale (es-ES).
+[2020.02.13-16.57.59:440][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.13-16.57.59:476][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.13-16.57.59:476][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.13-16.57.59:616][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.13-16.57.59:616][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.13-16.57.59:683][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K620' (Feature Level 11_0)
+[2020.02.13-16.57.59:683][  0]LogD3D11RHI:       2007/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.13-16.57.59:685][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.13-16.57.59:685][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.13-16.57.59:685][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.13-16.57.59:691][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.13-16.57.59:691][  0]LogD3D11RHI:     GPU DeviceId: 0x13bb (for the marketing name, search the web for "GPU Device Id")
+[2020.02.13-16.57.59:691][  0]LogWindows: EnumDisplayDevices:
+[2020.02.13-16.57.59:691][  0]LogWindows:    0. 'NVIDIA Quadro K620' (P:1 D:1)
+[2020.02.13-16.57.59:692][  0]LogWindows:    1. 'NVIDIA Quadro K620' (P:0 D:0)
+[2020.02.13-16.57.59:692][  0]LogWindows:    2. 'NVIDIA Quadro K620' (P:0 D:0)
+[2020.02.13-16.57.59:692][  0]LogWindows:    3. 'NVIDIA Quadro K620' (P:0 D:0)
+[2020.02.13-16.57.59:692][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.13-16.57.59:692][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K620
+[2020.02.13-16.57.59:692][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2020.02.13-16.57.59:692][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2020.02.13-16.57.59:692][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2020.02.13-16.57.59:727][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.13-16.57.59:739][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.13-16.58.02:172][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.13-16.58.02:182][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.13-16.58.02:190][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.13-16.58.02:199][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.13-16.58.02:209][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.13-16.58.02:217][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.13-16.58.02:226][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.13-16.58.02:237][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.13-16.58.02:242][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.13-16.58.02:280][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.13-16.58.02:282][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.13-16.58.02:300][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.13-16.58.02:300][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.13-16.58.02:313][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.13-16.58.02:314][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.13-16.58.02:321][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.13-16.58.02:330][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.13-16.58.02:337][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.13-16.58.02:345][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.13-16.58.02:371][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.13-16.58.02:371][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.13-16.58.02:371][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.13-16.58.02:381][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.13-16.58.02:432][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Intermediate/Shaders/WorkingDirectory/6044/).
+[2020.02.13-16.58.02:432][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alumno/AppData/Local/Temp/UnrealShaderWorkingDir/5D803F784C67F7EC8634C9A95AD2BA80/'.
+[2020.02.13-16.58.02:435][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.13-16.58.02:435][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.13-16.58.02:435][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.13-16.58.03:066][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.13-16.58.03:120][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.13-16.58.03:131][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.13-16.58.03:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.13-16.58.03:131][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.13-16.58.03:225][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alumno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.13-16.58.03:225][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.13-16.58.03:225][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.13-16.58.03:287][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.13-16.58.03:291][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.13-16.58.03:292][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.13-16.58.03:348][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.02.13-16.58.03:610][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.13-16.58.03:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.13-16.58.03:760][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.13-16.58.03:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.13-16.58.03:760][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.13-16.58.03:760][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.13-16.58.03:768][  0]LogNetVersion: FPS_DeniseCantos_2C 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2879020524)
+[2020.02.13-16.58.04:909][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.763016 seconds
+[2020.02.13-16.58.04:916][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.13-16.58.04:916][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.13-16.58.04:916][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.13-16.58.06:769][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.13-16.58.06:804][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.13-16.58.06:852][  0]SourceControl: El control de código fuente está desactivado
+[2020.02.13-16.58.06:852][  0]SourceControl: El control de código fuente está desactivado
+[2020.02.13-16.58.06:853][  0]SourceControl: El control de código fuente está desactivado
+[2020.02.13-16.58.06:854][  0]SourceControl: El control de código fuente está desactivado
+[2020.02.13-16.58.06:929][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.13-16.58.07:016][  0]LogOcInput: OculusInput pre-init called
+[2020.02.13-16.58.07:026][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.13-16.58.07:026][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.13-16.58.07:107][  0]LogEngine: Initializing Engine...
+[2020.02.13-16.58.07:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.13-16.58.07:110][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.13-16.58.07:339][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.13-16.58.07:353][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.13-16.58.07:369][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-16.58.07:600][  0]LogInit: FAudioDevice initialized.
+[2020.02.13-16.58.07:600][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.13-16.58.08:084][  0]LogDerivedDataCache: Saved boot cache 0.48s 73MB C:/Users/Alumno/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.13-16.58.08:093][  0]LogInit: Texture streaming: Enabled
+[2020.02.13-16.58.08:112][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.13-16.58.08:112][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.13-16.58.08:113][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.13-16.58.08:139][  0]LogInit: Transaction tracking system initialized
+[2020.02.13-16.58.08:172][  0]BlueprintLog: New page: Cargar el editor
+[2020.02.13-16.58.08:253][  0]LocalizationService: Localization service is disabled
+[2020.02.13-16.58.08:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/' took 0.01s
+[2020.02.13-16.58.08:874][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.13-16.58.08:874][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.13-16.58.09:056][  0]SourceControl: El control de código fuente está desactivado
+[2020.02.13-16.58.09:325][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2020.02.13-16.58.09:347][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.13-16.58.09:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.13-16.58.09:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.13-16.58.09:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.13-16.58.09:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.13-16.58.09:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.13-16.58.09:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.13-16.58.09:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.13-16.58.09:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.13-16.58.09:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.13-16.58.10:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.13-16.58.10:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.13-16.58.10:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.13-16.58.10:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.13-16.58.10:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.13-16.58.10:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.13-16.58.10:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.13-16.58.10:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.13-16.58.10:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.13-16.58.10:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.13-16.58.10:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.13-16.58.10:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.13-16.58.10:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.13-16.58.10:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.13-16.58.10:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.13-16.58.10:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.13-16.58.10:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.13-16.58.11:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.13-16.58.11:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.13-16.58.11:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.13-16.58.11:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.13-16.58.11:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.13-16.58.11:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.13-16.58.11:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.13-16.58.11:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.13-16.58.12:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.13-16.58.12:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.13-16.58.12:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.13-16.58.12:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.13-16.58.12:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.13-16.58.12:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.13-16.58.12:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.13-16.58.12:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.13-16.58.12:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.13-16.58.12:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.13-16.58.12:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.13-16.58.12:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.13-16.58.12:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.13-16.58.12:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.13-16.58.13:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.13-16.58.13:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.13-16.58.13:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.13-16.58.13:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.13-16.58.14:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.13-16.58.14:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.13-16.58.14:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.13-16.58.14:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.13-16.58.14:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.13-16.58.15:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.13-16.58.15:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.13-16.58.15:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.02.13-16.58.15:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.13-16.58.15:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.13-16.58.15:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.13-16.58.15:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.13-16.58.15:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.13-16.58.15:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.13-16.58.15:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.13-16.58.15:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.13-16.58.15:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.13-16.58.15:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.13-16.58.16:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.13-16.58.16:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.13-16.58.16:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.13-16.58.16:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.13-16.58.16:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.13-16.58.16:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.13-16.58.16:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.13-16.58.16:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.13-16.58.16:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.13-16.58.16:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.13-16.58.16:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.13-16.58.16:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.13-16.58.16:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.13-16.58.16:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.13-16.58.16:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.13-16.58.16:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.13-16.58.16:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.13-16.58.16:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.13-16.58.16:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.13-16.58.16:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.13-16.58.16:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.13-16.58.16:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.13-16.58.16:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.13-16.58.16:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.13-16.58.16:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.13-16.58.16:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.13-16.58.16:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.13-16.58.16:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.13-16.58.16:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.13-16.58.16:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.13-16.58.16:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.13-16.58.16:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.13-16.58.17:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.13-16.58.17:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.13-16.58.17:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.13-16.58.17:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.13-16.58.17:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.13-16.58.17:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.13-16.58.17:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.13-16.58.17:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.13-16.58.17:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.13-16.58.17:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.13-16.58.17:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.13-16.58.17:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.13-16.58.17:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.13-16.58.18:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.13-16.58.18:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.13-16.58.18:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.13-16.58.18:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.13-16.58.18:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.13-16.58.18:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.13-16.58.18:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.13-16.58.18:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.13-16.58.18:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.13-16.58.18:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.13-16.58.18:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.13-16.58.18:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.13-16.58.18:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.13-16.58.18:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.13-16.58.18:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.13-16.58.18:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.13-16.58.18:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.13-16.58.18:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.13-16.58.18:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.13-16.58.19:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.13-16.58.19:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.13-16.58.19:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.13-16.58.19:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.13-16.58.19:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.13-16.58.19:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.13-16.58.19:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.13-16.58.19:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.13-16.58.19:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.13-16.58.19:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.13-16.58.19:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.13-16.58.19:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.13-16.58.19:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.13-16.58.19:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.13-16.58.19:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.13-16.58.19:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.13-16.58.19:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.13-16.58.19:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.13-16.58.19:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.13-16.58.19:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.13-16.58.19:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.13-16.58.19:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.13-16.58.19:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.13-16.58.19:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.13-16.58.19:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.13-16.58.19:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.13-16.58.19:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.13-16.58.19:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.13-16.58.19:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.13-16.58.19:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.13-16.58.20:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.13-16.58.20:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.13-16.58.20:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.13-16.58.20:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.13-16.58.20:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.13-16.58.20:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.13-16.58.20:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.13-16.58.21:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.13-16.58.21:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.13-16.58.21:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.13-16.58.21:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.13-16.58.21:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.13-16.58.21:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.13-16.58.21:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.13-16.58.22:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.13-16.58.22:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.13-16.58.22:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.13-16.58.22:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.13-16.58.22:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.13-16.58.23:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.13-16.58.23:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.13-16.58.23:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.13-16.58.23:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.13-16.58.23:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.13-16.58.23:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.13-16.58.23:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.13-16.58.23:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.13-16.58.23:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.13-16.58.23:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.13-16.58.24:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.13-16.58.24:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.13-16.58.24:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.13-16.58.24:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.13-16.58.24:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.13-16.58.24:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.13-16.58.25:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.13-16.58.25:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.13-16.58.25:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.13-16.58.25:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.13-16.58.25:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.13-16.58.25:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.13-16.58.25:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.13-16.58.25:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.13-16.58.25:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.13-16.58.25:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.13-16.58.25:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.13-16.58.25:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.13-16.58.25:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.13-16.58.25:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.13-16.58.25:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.13-16.58.25:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.13-16.58.25:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.13-16.58.26:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.13-16.58.26:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.13-16.58.26:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.13-16.58.27:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.13-16.58.27:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.13-16.58.27:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.13-16.58.27:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.13-16.58.27:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.13-16.58.27:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.13-16.58.27:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.13-16.58.27:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.13-16.58.27:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.13-16.58.27:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.13-16.58.27:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.13-16.58.27:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.13-16.58.27:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.13-16.58.27:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.13-16.58.27:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.13-16.58.27:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.13-16.58.27:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.13-16.58.27:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.13-16.58.27:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.13-16.58.27:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.13-16.58.27:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.13-16.58.27:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.13-16.58.27:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.13-16.58.27:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.13-16.58.27:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.13-16.58.27:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.13-16.58.27:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.13-16.58.27:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.13-16.58.27:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.13-16.58.27:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.13-16.58.27:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.13-16.58.27:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.13-16.58.27:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.13-16.58.27:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.13-16.58.27:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.13-16.58.27:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.13-16.58.27:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.13-16.58.27:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.13-16.58.27:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.13-16.58.27:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.13-16.58.27:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.13-16.58.27:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.13-16.58.27:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.13-16.58.27:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.13-16.58.27:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.13-16.58.28:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.13-16.58.28:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.13-16.58.28:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.13-16.58.28:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.13-16.58.28:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.13-16.58.28:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.13-16.58.28:490][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2020.02.13-16.58.28:570][  0]LogStaticMesh: Built static mesh [0.11s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.02.13-16.58.28:804][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-16.58.31:162][  0]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Floor_400x400A742929E415821726D331594D1093096.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.13-16.58.31:193][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.02.13-16.58.31:203][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-16.58.31:204][  0]LightingResults: New page: Diseñar la iluminación
+[2020.02.13-16.58.31:216][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-16.58.31:216][  0]MapCheck: New page: Revisión del mapa
+[2020.02.13-16.58.31:216][  0]LightingResults: New page: Diseñar la iluminación
+[2020.02.13-16.58.31:266][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_Body_diffuse (AutoDXT, 2048X2048)
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_Body_normal (BC5, 2048X2048)
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_Body_specular (AutoDXT, 1024X1024)
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_head_diffuse (AutoDXT, 2048X2048)
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_head_specular (AutoDXT, 1024X1024)
+[2020.02.13-16.58.32:889][  0]LogTexture: Display: Building textures: Soldier_head_normal (BC5, 2048X2048)
+[2020.02.13-16.58.32:889][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/idle_aiming.idle_aiming
+[2020.02.13-16.58.33:327][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/idle_aiming.idle_aiming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.33:624][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_backward_inPlace.walk_backward_inPlace
+[2020.02.13-16.58.33:624][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_backward_inPlace.walk_backward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.33:727][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_forward_inPlace.walk_forward_inPlace
+[2020.02.13-16.58.33:728][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_forward_inPlace.walk_forward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.34:104][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_right_inPlace.walk_right_inPlace
+[2020.02.13-16.58.34:104][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_right_inPlace.walk_right_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.34:158][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_left_inPlace.walk_left_inPlace
+[2020.02.13-16.58.34:158][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_left_inPlace.walk_left_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.36:184][  0]LogMaterial: Display: Missing cached shader map for material Soldier_body1, compiling. 
+[2020.02.13-16.58.36:374][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.02.13-16.58.36:374][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.02.13-16.58.36:374][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.02.13-16.58.36:374][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.02.13-16.58.36:374][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 20
+[2020.02.13-16.58.36:374][  0]LogSkeletalMesh: Building Skeletal Mesh Swat...
+[2020.02.13-16.58.36:434][  0]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/ThirdPersonBP/Models/Swat/Mesh/Swat.Swat
+[2020.02.13-16.58.36:525][  0]LogMaterial: Display: Missing cached shader map for material Soldier_head6, compiling. 
+[2020.02.13-16.58.36:664][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_backward_inPlace.run_backward_inPlace
+[2020.02.13-16.58.36:664][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_backward_inPlace.run_backward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.36:734][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_forward_inPlace.run_forward_inPlace
+[2020.02.13-16.58.36:734][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_forward_inPlace.run_forward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.36:789][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_left_inPlace.run_left_inPlace
+[2020.02.13-16.58.36:789][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_left_inPlace.run_left_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.36:895][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_right_inPlace.run_right_inPlace
+[2020.02.13-16.58.36:895][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/run_right_inPlace.run_right_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-16.58.36:917][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.13-16.58.37:817][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-16.58.37:842][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.13-16.58.37:842][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-16.58.37:842][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2020.02.13-16.58.37:842][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.640
+[2020.02.13-16.58.38:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.58.38:895][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.58.38:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.58.38:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.58.39:010][  0]LogCollectionManager: Loaded 0 collections in 0.001927 seconds
+[2020.02.13-16.58.39:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Collections/' took 0.00s
+[2020.02.13-16.58.39:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/Developers/Alumno/Collections/' took 0.00s
+[2020.02.13-16.58.39:218][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/Collections/' took 0.00s
+[2020.02.13-16.58.39:218][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.13-16.58.39:228][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2863 classes and 680 folders.
+[2020.02.13-16.58.39:350][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.13-16.58.40:575][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.13-16.58.40:896][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.13-16.58.40:959][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.13-16.58.40:969][  0]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.13-16.58.41:182][  0]LogSlate: Took 0.196978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.13-16.58.41:647][  0]LogRenderer: Reallocating scene render targets to support 1148x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-16.58.41:780][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-16.58.41:954][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.13-16.58.41:954][  0]LogLoad: (Engine Initialization) Total time: 43.61 seconds
+[2020.02.13-16.58.41:955][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.13-16.58.42:188][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.13-16.58.42:257][  1]LogAssetRegistry: Asset discovery search completed in 38.9088 seconds
+[2020.02.13-16.58.42:265][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000012 seconds (found 0 objects)
+[2020.02.13-16.58.42:265][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2020.02.13-16.58.42:491][ 15]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2020.02.13-16.58.42:503][ 16]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.02.13-16.58.43:142][ 55]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.02.13-16.58.44:017][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.02.13-16.58.44:956][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-16.58.45:348][228]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.02.13-16.58.45:858][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.13-16.58.46:850][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.02.13-16.58.47:435][330]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.13-16.58.47:753][360]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.13-16.58.48:172][398]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.13-16.58.48:292][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.13-16.58.48:534][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.13-16.58.48:690][447]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.13-16.59.22:217][213]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-16.59.22:229][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.13-16.59.22:736][213]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.02.13-16.59.24:100][213]LogSlate: Took 0.019741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.13-16.59.24:771][214]LogSlate: Took 0.023176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.13-16.59.41:980][274]LogEditorSessionSummary: EditorSessionSummary sent report. Type=AbnormalShutdown, SessionId={418F7C2B-4ED5-A050-16CF-97813C1A1FD3}
+[2020.02.13-16.59.41:980][274]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={95582BA9-4897-93AA-C619-C2A71E4FFBB1}
+[2020.02.13-16.59.41:980][274]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={277433E0-46EE-7CA4-CD29-6DA8271547FD}
+[2020.02.13-16.59.41:980][274]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={DC945EB4-4E0D-6577-49CF-F287DE1E8D1A}
+[2020.02.13-16.59.54:276][309]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.13-16.59.54:317][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.13-16.59.54:317][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-16.59.54:324][309]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (13/2/2020 18:59:54)
+[2020.02.13-16.59.54:325][309]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.13-16.59.54:331][309]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.13-16.59.54:345][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013752s)
+[2020.02.13-16.59.54:346][309]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.13-16.59.54:346][309]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2020.02.13-16.59.54:346][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015371s)
+[2020.02.13-16.59.54:387][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.02.13-16.59.54:413][309]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-16.59.54:426][309]LogInit: FAudioDevice initialized.
+[2020.02.13-16.59.54:440][309]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.13-16.59.54:448][309]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.13-17.59.54
+[2020.02.13-16.59.54:448][309]LogWorld: Bringing up level for play took: 0.001662
+[2020.02.13-16.59.54:448][309]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.13-16.59.54:614][309]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.02.13-16.59.54:615][309]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,475
+[2020.02.13-16.59.54:615][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.13-16.59.57:313][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.13-16.59.57:329][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.59.57:329][510]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.13-16.59.57:329][510]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.13-16.59.57:355][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-16.59.57:355][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.13-16.59.57:422][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-16.59.57:446][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.13-16.59.57:469][511]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.13-16.59.58:929][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.02.13-17.00.00:376][704]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.13-17.00.02:060][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-17.00.11:706][250]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP.SWATAnim_BP
+[2020.02.13-17.00.11:799][250]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.13-17.00.12:231][250]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-17.00.12:245][250]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.02.13-17.00.12:774][250]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.13-17.01.10:410][154]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.13-17.02.11:035][769]LogSlate: Window 'Escoger Esqueleto' being destroyed
+[2020.02.13-17.02.21:810][ 83]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace.Crouch_BlendSpace
+[2020.02.13-17.02.21:832][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.13-17.02.21:863][ 83]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.13-17.02.22:479][ 83]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.13-17.04.21:260][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/idle_crouching_aiming.idle_crouching_aiming
+[2020.02.13-17.04.21:260][909]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/idle_crouching_aiming.idle_crouching_aiming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-17.06.08:893][525]LogSlate: Took 0.049147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.13-17.06.08:920][526]LogSlate: Took 0.014185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2020.02.13-17.06.10:339][593]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.107181 seconds
+[2020.02.13-17.06.10:339][593]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.02.13-17.06.10:339][593]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.02.13-17.06.10:940][594]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.13-17.06.10:946][594]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.13-17.06.10:950][594]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.13-17.06.10:952][594]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-17.06.12:267][667]LogSlate: Took 0.001341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.13-17.06.12:267][667]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'አ (U+12a0)'
+[2020.02.13-17.06.12:331][667]LogSlate: Took 0.061487 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.02.13-17.06.12:331][667]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2020.02.13-17.06.17:780][929]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.083258 seconds
+[2020.02.13-17.06.17:780][929]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.02.13-17.06.17:948][930]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.13-17.06.17:954][930]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.13-17.06.17:958][930]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.13-17.06.17:960][930]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-17.06.19:815][ 34]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.02.13-17.06.19:843][ 34]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.02.13-17.06.56:828][763]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_forward_inPlace.walk_crouching_forward_inPlace
+[2020.02.13-17.06.56:828][763]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_forward_inPlace.walk_crouching_forward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-17.07.42:185][287]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={254BC265-4653-2B86-A293-DDAD41EAF112}
+[2020.02.13-17.08.06:071][ 34]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_right_inPlace.walk_crouching_right_inPlace
+[2020.02.13-17.08.06:071][ 34]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_right_inPlace.walk_crouching_right_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-17.08.07:983][ 94]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_left_inPlace.walk_crouching_left_inPlace
+[2020.02.13-17.08.07:984][ 94]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_left_inPlace.walk_crouching_left_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-17.08.17:580][406]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_backward_inPlace.walk_crouching_backward_inPlace
+[2020.02.13-17.08.17:580][406]LogAnimationCompression: Recompressing (AnimSequence /Game/ThirdPersonBP/Models/Swat/Animation/walk_crouching_backward_inPlace.walk_crouching_backward_inPlace) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.02.13-17.09.14:002][811]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-17.09.23:210][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.02.13-17.09.23:637][ 93]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/ThirdPersonExampleMap_Auto14D1DAF354DEB0963ABEA8D84F16B141F.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.13-17.09.23:643][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.545
+[2020.02.13-17.09.23:643][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2020.02.13-17.09.23:645][ 93]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP] ([1] browsable assets)...
+[2020.02.13-17.09.23:662][ 93]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP.SWATAnim_BP]
+[2020.02.13-17.09.23:662][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP]
+[2020.02.13-17.09.23:713][ 93]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/SWATAnim_BP_Auto1AD4C87B04A466506F6D42D963D671A28.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Autosaves/Game/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP_Auto1.uasset'
+[2020.02.13-17.09.23:713][ 93]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace] ([1] browsable assets)...
+[2020.02.13-17.09.23:730][ 93]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace.Crouch_BlendSpace]
+[2020.02.13-17.09.23:730][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace]
+[2020.02.13-17.09.23:746][ 93]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Crouch_BlendSpace_Auto1C78969934FCDBC72AC42AB87944D44A7.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Autosaves/Game/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace_Auto1.uasset'
+[2020.02.13-17.09.23:746][ 93]LogFileHelpers: Auto-saving content packages took 0.103
+[2020.02.13-17.09.40:223][661]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Crouch_BlendSpaceF8200C7744907227696CC4A5FD5C731E.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace.uasset'
+[2020.02.13-17.09.41:824][711]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/Crouch_BlendSpace3E5AE77146146B0958EEFD90E219C5E4.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/ThirdPersonBP/Models/Swat/Mesh/Crouch_BlendSpace.uasset'
+[2020.02.13-17.09.45:979][906]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.02.13-17.09.46:030][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.13-17.09.46:273][906]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/ThirdPersonExampleMapBF4F7E9C4475909274120C8EAB29B302.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.13-17.09.46:309][906]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.317
+[2020.02.13-17.09.46:338][906]LogSavePackage: Moving '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Saved/SWATAnim_BP92E919964E569443B3157F89DA647241.tmp' to '../../../../../../Users/Alumno/Desktop/D/FPS_DeniseCantos_2C/FPS_DeniseCantos_2C 4.23/Content/ThirdPersonBP/Models/Swat/Mesh/SWATAnim_BP.uasset'
